@@ -7,8 +7,7 @@ Desktop View
 
 ![Alt text](ScreenShots/SS_2.png)
 
-
-<!-- Mobile View  -->
+Mobile View
 
 ![Alt text](ScreenShots/SS_3.png)
 
