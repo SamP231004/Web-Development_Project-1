@@ -1,6 +1,5 @@
 # Web-Development_Project-1
 
-
 Desktop View
 
 ![Alt text](ScreenShots/SS_1.png)
